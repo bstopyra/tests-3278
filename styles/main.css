@@ -24,7 +24,4 @@ body {
 }
 
 .agents-list {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
 }

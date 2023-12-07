@@ -1,6 +1,5 @@
 {
-    "appId": "tCDmPbHIR",
-    "auth": {
-        "clientId": "b9c23dfcb134592902766c21a5c12201"
-    }
+  "appId": "Rn8aQxNIg",
+  "auth": { "clientId": "a177040262eb34c47dc4c39f85f6539a" },
+  "stage": "labs"
 }
